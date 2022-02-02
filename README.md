@@ -12,7 +12,7 @@ Please note these cars where not developed by our organization all authors are c
 
 
 ### How To Install The Cars
-- [Click here](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack/wiki/VPS-installation) to see the wiki page for how to install the proper way
+- [Click here](https://github.com/Mega-Development-Resources/FiveM_Car_Pack_CIV/wiki) to see the wiki page for how to install the proper way
 
 
 ### vMenu

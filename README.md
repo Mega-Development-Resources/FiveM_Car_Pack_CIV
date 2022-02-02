@@ -22,8 +22,8 @@ Please note these cars where not developed by our organization all authors are c
 
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)</sub> | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **2010 Aston Martin One-77** | tltypes | ![Picture](./img/tltypes.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2010-aston-martin-one-77-add-on-template) | ✔️ |
-| **Aston Martin DBX Carbon Edition** | amdbx | ![Picture](./img/amdbx.webp) | kuchka78 | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-dbx-carbon-edition) | ✔️ |
+| **2010 Aston Martin One-77** | aone | ![Picture](./img/aone.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2010-aston-martin-one-77-add-on-template) | ✔️ |
+| **Aston Martin V8 Vantage 1977** | amdbx | ![Picture](./img/v877.webp) | Abolfazldanaee | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-dbx-carbon-edition) | ✔️ |
 | **2013 Aston Martin Vanquish** | ast | ![Picture](./img/ast.webp) | YCA-ANSWER | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-vanquish-2013) | ✔️ |
 | **1995 Audi Cabriolet (RS2) (B4)** | 80B4 | ![Picture](./img/80B4.webp) | HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/1995-audi-80-cabriolet-hkrs2-b4-street-legal-add-on-replace-tuning-extras) | ✔️ |
 | **2017 Audi A4 Quattro ABT** | aaq4 | ![Picture](./img/aaq4.webp) | SaleeN | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-audi-a4-quattro-abt-replace-tuning) | ✔️ |

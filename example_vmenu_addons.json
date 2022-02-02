@@ -1,0 +1,45 @@
+{
+    "vehicles": [
+      "aone",
+      "v877",
+      "22m5",
+      "sjtoyota13",
+      "sl65bs09",
+      "rmodm4gts",
+      "sjbenz250",
+      "13malibu",
+      "sjdodge",
+      "gxa45",
+      "citytrg",
+      "gladiator",
+      "wildtrak",
+      "sierra2021",
+      "cookiers6a",
+      "C2017",
+      "19raptor",
+      "impala10",
+      "fc16",
+      "camarozl1",
+      "polar06seirra",
+      "sdgmc",
+      "E53",
+      "pacifica",
+      "21ody",
+      "rs6c8",
+      "macanpd60m",
+      "mustang68",
+      "expmax20"
+    ],
+    "peds": [
+      "addonpedname1",
+      "addonpedname2"
+    ],
+    "weapons": [
+      "addonweaponname1",
+      "addonweaponname2"
+    ],
+    "weapon_components": [
+      "weapon_component_name_1",
+      "weapon_component_name_2"
+    ]
+  }

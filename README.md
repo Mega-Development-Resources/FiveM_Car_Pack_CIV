@@ -26,3 +26,11 @@ Please note these cars where not developed by our organization all authors are c
 | **Aston Martin V8 Vantage 1977** | v877 | ![Picture](./img/v877.webp) | Abolfazldanaee | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-v8-vantage-1977-add-on-template-extras) | ✔️ |
 | **2020 Audi RS6** | cookiers6a | ![Picture](./img/cookiers6a.png) | cookierich | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-rs6-2020-abt-add-on-fivem-tuning) | ✔️ |
 | **2021 Audi RS6 Sedan** | rs6c8 | ![Picture](./img/rs6c8.webp) | ahmeda1999 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-audi-rs6-sedan-c8-add-on) | ✔️ |
+| **2006 BMW X5** | E53 | ![Picture](./img/E53.webp) | HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/2006-bmw-x5-4-8is-individual-e53-fl-add-on-replace-tuning-extras) | ✔️ |
+| **BMW M4 GTS Liberty Walk** | rmodm4gts | ![Picture](./img/rmodm4gts.webp) | Rmod Customs | [5MODS Link](https://www.gta5-mods.com/vehicles/bmw-m4-gts-liberty-walk) | ✔️ |
+| **2022 BMW M5 Competition** | 22m5 | ![Picture](./img/22m5.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/2022-bmw-m5-compe) | ✔️ |
+| **2017 Cadillac CTS V** | C2017 | ![Picture](./img/C2017.webp) | Amir Onyx | [5MODS Link](https://www.gta5-mods.com/vehicles/cadillac-cts-v-2017-add-on) | ✔️ |
+| **2010 Chevrolet Impala LS** | impala10 | ![Picture](./img/impala10.png) | Kpym | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-impala-2010-add-on-replace-fivem-lods) | ✔️ |
+| **2013 Chevrolet Malibu** | 13malibu | ![Picture](./img/13malibu.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-chevrolet-malibu-add-on) | ✔️ |
+| **2012 Camaro ZL1** | camarozl1 | ![Picture](./img/camarozl1.webp) | TacoPoPo | [5MODS Link](https://www.gta5-mods.com/vehicles/2012-camaro-zl1-add-on-fivem-template-lods) | ✔️ |
+| **2020 Chrysler Pacifica Limited** | pacifica | ![Picture](./img/pacifica.webp) | jrem7315 & GTA Graphica | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-chrysler-pacifica-limited) | ✔️ |

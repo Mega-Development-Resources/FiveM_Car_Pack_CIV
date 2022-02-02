@@ -1,15 +1,15 @@
 -- Sets server list convar
 SetConvarServerInfo('tags', 'MEGA_CIV_CARS')
 -- Setup for the version check
-updatePath = "/PLOKMJNB/FiveM-Civ-Car-Pack" -- your git user/repo path
+updatePath = "/Mega-Development-Resources/FiveM-Car-Pack-CIV" -- your git user/repo path
 -- Console stuff
 Citizen.CreateThread(function()
-    if GetCurrentResourceName() ~= "PLOKS_CARS" then
+    if GetCurrentResourceName() ~= "CIV_CARS" then
         print("-----------------------------------------------------")
         print("Please Dont Change the resource name to avoid errors.")
         print("-----------------------------------------------------")
     end
-    if GetCurrentResourceName() == 'PLOKS_CARS' then
+    if GetCurrentResourceName() == 'CIV_CARS' then
         function checkVersion(_, responseText)
             curVersion = LoadResourceFile(GetCurrentResourceName(), "version")
 
@@ -37,5 +37,5 @@ Citizen.CreateThread(function()
         end
     end
 
-    PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."/master/PLOKS_CARS/version", checkVersion, "GET")
+    PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."/master/CIV_CARS/version", checkVersion, "GET")
 end)

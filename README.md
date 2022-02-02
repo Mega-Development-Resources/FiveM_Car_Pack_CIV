@@ -35,7 +35,7 @@ Please note these cars where not developed by our organization all authors are c
 | **2012 Camaro ZL1** | camarozl1 | ![Picture](./img/camarozl1.webp) | TacoPoPo | [5MODS Link](https://www.gta5-mods.com/vehicles/2012-camaro-zl1-add-on-fivem-template-lods) | ✔️ |
 | **2020 Chrysler Pacifica Limited** | pacifica | ![Picture](./img/pacifica.webp) | jrem7315 & GTA Graphica | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-chrysler-pacifica-limited) | ✔️ |
 | **2020 Dodge Charger SRT Hellcat** | sjdodge | ![Picture](./img/sjdodge.webp) | sj storm | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-dodge-charger-srt-hellcat-addon-tuning-extras) | ✔️ |
-| **2021 Ford Bronco Wildtrak** | wildtrak | ![Picture](./img/wildtrak.png) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem) | ✔️ |
+| **2021 Ford Bronco Wildtrak** | wildtrak | ![Picture](./img/wildtrak.webp) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem) | ✔️ |
 | **1968 Ford Mustang GT 390 Fastback** | mustang68 | ![Picture](./img/mustang68.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1968-ford-mustang-gt-390-fastback-add-on-extras-lods-template-tunings) | ✔️ |
 | **2020 Ford Expedition** | expmax20 | ![Picture](./img/expmax20.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-ford-expedition-max-add-on) | ✔️ |
 | **2018 Ford F-150 Raptor Crew Cab** | 19raptor | ![Picture](./img/19raptor.webp) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-ford-f-150-raptor-crew-cab-oiv-add-on-tuning-fivem) | ✔️ |

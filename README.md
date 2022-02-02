@@ -39,15 +39,15 @@ Please note these cars where not developed by our organization all authors are c
 | **1968 Ford Mustang GT 390 Fastback** | mustang68 | ![Picture](./img/mustang68.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1968-ford-mustang-gt-390-fastback-add-on-extras-lods-template-tunings) | ✔️ |
 | **2020 Ford Expedition** | expmax20 | ![Picture](./img/expmax20.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-ford-expedition-max-add-on) | ✔️ |
 | **2018 Ford F-150 Raptor Crew Cab** | 19raptor | ![Picture](./img/19raptor.webp) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-ford-f-150-raptor-crew-cab-oiv-add-on-tuning-fivem) | ✔️ |
-| **2021 GMC Sierra SLE** | sierra2021 | ![Picture](./img/sierra2021.webp) | njRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/gmc-sierra-2021-sle-add-on-fivem) | ✔️ |
+| **2021 GMC Sierra SLE** | sierra2021 | ![Picture](./img/sierra2021.png) | njRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/gmc-sierra-2021-sle-add-on-fivem) | ✔️ |
 | **2006 GMC Seirra 1500** | polar06seirra | ![Picture](./img/polar06seirra.webp) | Polarbearr | [5MODS Link](https://www.gta5-mods.com/vehicles/2006-gmc-seirra-1500-add-on-fivem) | ✔️ |
 | **2021 GMC Denali** | sdgmc | ![Picture](./img/sdgmc.webp) | SDMAH | [5MODS Link](https://www.gta5-mods.com/vehicles/gmc-denali-2021-add-on) | ✔️ |
-| **2019 Honda City** | citytrg | ![Picture](./img/citytrg.webp) | TechReviewGaming_YT | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-city-2019-addon-extras) | ✔️ |
+| **2019 Honda City** | citytrg | ![Picture](./img/citytrg.png) | TechReviewGaming_YT | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-city-2019-addon-extras) | ✔️ |
 | **2021 Honda Odyssey Elite** | 21ody | ![Picture](./img/21ody.webp) | jrem7315 & GTA Graphica | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-honda-odyssey-elite-add-on) | ✔️ |
 | **2016 Honda Civic FC** | fc16 | ![Picture](./img/fc16.webp) | MOOMANOW | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-civic-fc-2016-add-on) | ✔️ |
-| **2020 Jeep Gladiator Rubicon** | gladiator | ![Picture](./img/gladiator.webp) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-jeep-gladiator-rubicon-add-on-fivem-lods-template) | ✔️ |
+| **2020 Jeep Gladiator Rubicon** | gladiator | ![Picture](./img/gladiator.png) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-jeep-gladiator-rubicon-add-on-fivem-lods-template) | ✔️ |
 | **2009 Mercedes-Benz SL65** | sl65bs09 | ![Picture](./img/sl65bs09.webp) | Alex9581 | [5MODS Link](https://www.gta5-mods.com/vehicles/2009-mercedes-benz-sl65-amg-black-series-add-on-template-tuning-vehfuncs-v) | ✔️ |
-| **2021 Mercedes Benz A45 AMG** | gxa45 | ![Picture](./img/gxa45.webp) | Gx_Lover | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-mercedes-benz-a45-amg-addon-brabus-kit) | ✔️ |
+| **2021 Mercedes Benz A45 AMG** | gxa45 | ![Picture](./img/gxa45.jpeg) | Gx_Lover | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-mercedes-benz-a45-amg-addon-brabus-kit) | ✔️ |
 | **2014 Mercedes Benz Cla 250** | sjbenz250 | ![Picture](./img/sjbenz250.webp) | sj storm | [5MODS Link](https://www.gta5-mods.com/vehicles/mercedes-benz-cla-250-2014-addon-tuning-extras) | ✔️ |
 | **Porsche Macan** | macanpd60m | ![Picture](./img/macanpd60m.webp) | DTD RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/porsche-macan-prior-design-addon) | ✔️ |
-| **Toyota Land Cruiser 200 2013** | sjtoyota13 | ![Picture](./img/sjtoyota13.webp) | sj storm | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-land-cruiser-200-2013-add-on-extras) | ✔️ |
+| **Toyota Land Cruiser 200 2013** | sjtoyota13 | ![Picture](./img/sjtoyota13.jpeg) | sj storm | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-land-cruiser-200-2013-add-on-extras) | ✔️ |

@@ -45,7 +45,7 @@ Please note these cars where not developed by our organization all authors are c
 | **2019 Honda City** | citytrg | ![Picture](./img/citytrg.png) | TechReviewGaming_YT | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-city-2019-addon-extras) | ✔️ |
 | **2021 Honda Odyssey Elite** | 21ody | ![Picture](./img/21ody.webp) | jrem7315 & GTA Graphica | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-honda-odyssey-elite-add-on) | ✔️ |
 | **2016 Honda Civic FC** | fc16 | ![Picture](./img/fc16.webp) | MOOMANOW | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-civic-fc-2016-add-on) | ✔️ |
-| **2020 Jeep Gladiator Rubicon** | gladiator | ![Picture](./img/gladiator.png) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-jeep-gladiator-rubicon-add-on-fivem-lods-template) | ✔️ |
+| **2020 Jeep Gladiator Rubicon** | gladiator | ![Picture](./img/gladiator.jpeg) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-jeep-gladiator-rubicon-add-on-fivem-lods-template) | ✔️ |
 | **2009 Mercedes-Benz SL65** | sl65bs09 | ![Picture](./img/sl65bs09.webp) | Alex9581 | [5MODS Link](https://www.gta5-mods.com/vehicles/2009-mercedes-benz-sl65-amg-black-series-add-on-template-tuning-vehfuncs-v) | ✔️ |
 | **2021 Mercedes Benz A45 AMG** | gxa45 | ![Picture](./img/gxa45.jpeg) | Gx_Lover | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-mercedes-benz-a45-amg-addon-brabus-kit) | ✔️ |
 | **2014 Mercedes Benz Cla 250** | sjbenz250 | ![Picture](./img/sjbenz250.webp) | sj storm | [5MODS Link](https://www.gta5-mods.com/vehicles/mercedes-benz-cla-250-2014-addon-tuning-extras) | ✔️ |

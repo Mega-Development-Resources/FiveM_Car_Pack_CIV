@@ -8,7 +8,7 @@ A car pack for your server civilians, this pack is more of cars you would see in
 Please note these cars where not developed by our organization all authors are cridited below. Also note this pack layout & configuration setup is heavily inspired by - [PLOKMJNB/FiveM-Civ-Car-Pack](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack)
 
 ### Support & Requesting NEW Cars!
-- [Discord](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack/wiki/VPS-installation) join our Community Discord for help if need & for requesting cars.
+- [Discord]( https://discord.gg/ezZUvgmr27 ) join our Community Discord for help if need & for requesting cars.
 
 
 ### How To Install The Cars

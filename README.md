@@ -2,8 +2,8 @@
 A car pack for your server civilians, this pack is more of cars you would see in everyday life. (Instead of 30+ super cars)
 
 ![Issues](https://img.shields.io/github/issues/Mega-Development-Resources/FiveM_Car_Pack_CIV?style=for-the-badge&logo=github)
-![Car Count](https://img.shields.io/badge/Car%20Count-29-brightgreen?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/Mega-Development-Resources/FiveM_Car_Pack_CIV/total?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/Car%20Count-8,341-brightgreen?style=for-the-badge)
+
 
 Please note these cars where not developed by our organization all authors are cridited below. Also note this pack layout & configuration setup is heavily inspired by - [PLOKMJNB/FiveM-Civ-Car-Pack](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack)
 
